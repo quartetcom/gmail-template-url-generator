@@ -33,14 +33,6 @@
 コンバージョンページ（問い合わせ完了、決済完了ページ等）
 の&lt;body&gt;タグと&lt;/body&gt;タグの間に設置して下さい。
 
-設置手順参考URL
-《Yahoo!プロモーション広告の場合》
-スポンサードサーチ：http://quartet-web.com/10Sue9S
-YDN：https://help.marketing.yahoo.co.jp/ja/?p=1355
-
-《GoogleAdWordsの場合》
-http://quartet-web.com/TSwSb7
-
 ■■■コンバージョンタグ設置の際のご注意点■■■
 
 リスティング広告のコンバージョン測定は、
