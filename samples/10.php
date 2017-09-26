@@ -8,11 +8,11 @@
     <div class="panel-body">
         <div class="form-group">
             <label>Bcc</label>
-            <div class="well well-sm">shinchoku@quartetcom.co.jp</div>
+            <div class="well well-sm"><br></div>
         </div>
         <div class="form-group">
             <label>Subject</label>
-            <div class="well well-sm">【カルテット運用チーム】閲覧権限の発行について（　様）</div>
+            <div class="well well-sm">【カルテット運用チーム】ダッシュボード閲覧権限の発行について（　様）</div>
         </div>
         <div class="form-group">
             <label>Body</label>
@@ -22,23 +22,12 @@
 いつもお世話になっております。
 カルテット運用チーム○○です。
 
-リスティング広告の閲覧権限情報を送付させて頂きます。
+リスティング広告の進捗確認用のダッシュボード閲覧権限情報を送付させて頂きます。
 以下IDパスワードでログイン頂き、状況に応じてご覧下さい。
 ※権限などの仕様の関係で原則ID、パスワードの変更は出来ませんので予めご了承下さいませ。
 
------------------
-１）Yahoo!
------------------
-https://login.bizmanager.yahoo.co.jp/login
-ビジネスID　　●●
-パスワード　　●●
 
-
------------------
-２）Google
------------------
-https://adwords.google.co.jp
-ログインID　　●●
+ログインURL　https://app.lisket.jp/client/guest/XXXXXXXXXXXXXXXXXXXXXXX/login
 パスワード　　●●
 
 
