@@ -12,7 +12,7 @@
         </div>
         <div class="form-group">
             <label>Bcc</label>
-            <div class="well well-sm"></div>
+            <div class="well well-sm">&nbsp;</div>
         </div>
         <div class="form-group">
             <label>Subject</label>
