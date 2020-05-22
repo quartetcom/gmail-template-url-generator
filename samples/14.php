@@ -7,6 +7,10 @@
     </div>
     <div class="panel-body">
         <div class="form-group">
+            <label>Cc</label>
+            <div class="well well-sm">&nbsp;</div>
+        </div>
+        <div class="form-group">
             <label>Bcc</label>
             <div class="well well-sm">eigyo@quartetcom.co.jp</div>
         </div>

@@ -11,6 +11,10 @@
             <div class="well well-sm">shinchoku@quartetcom.co.jp</div>
         </div>
         <div class="form-group">
+            <label>Bcc</label>
+            <div class="well well-sm">&nbsp;</div>
+        </div>
+        <div class="form-group">
             <label>Subject</label>
             <div class="well well-sm">Facebookページへのアクセスリクエスト承認の御願い</div>
         </div>
