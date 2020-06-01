@@ -8,7 +8,7 @@
     <div class="panel-body">
         <div class="form-group">
             <label>Cc</label>
-            <div class="well well-sm">shinchoku@quartetcom.co.jp, keiri@quartetcom.co.jp</div>
+            <div class="well well-sm">shinchoku@quartetcom.co.jp, keiri@quartetcom.co.jp, consul@quartetcom.co.jp</div>
         </div>
         <div class="form-group">
             <label>Bcc</label>
@@ -33,9 +33,12 @@
 
 万が一、口座へのご入金が支払い期日の夕方などで、着金反映が期日を過ぎそうな場合などは
 メールで構いませんのでご一報いただけると大変助かります。
-請求書の内容の修正が必要の場合、運用担当へご連絡ください。
 
-不明点等ございましたらお知らせください。
+ご質問の際は下記のアドレスにお願いします。
+keiri@quartetcom.co.jp
+内容や金額変更の場合は運用担当者へご連絡ください。
+shinchoku@quartetcom.co.jp
+
 よろしくお願いいたします。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
